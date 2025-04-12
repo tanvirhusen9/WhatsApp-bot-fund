@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-fund-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0"
+  }
+}
